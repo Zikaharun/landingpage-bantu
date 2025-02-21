@@ -1,0 +1,8 @@
+[
+    { "name": "Budi Santoso","price": "3.000.000", "img": "4580888.jpg", "job": "Web Developer", "location": "Jakarta" },
+    { "name": "Siti Aisyah", "price": "2.000.000", "img": "5745754.jpg", "job": "UI/UX Designer", "location": "Bandung" },
+    { "name": "Joko Driono", "price": "10.000.000", "img": "9469561.jpg", "job": "Data Analyst", "location": "Surabaya" },
+    { "name": "Sinta Marina", "price": "2.000.000", "img": "8805656.jpg", "job": "Bidan", "location": "Depok" },
+    { "name": "Indah Permata", "price": "2.000.000", "img": "9407475.jpg", "job": "Content Writer", "location": "Yogyakarta" }
+  ]
+  
